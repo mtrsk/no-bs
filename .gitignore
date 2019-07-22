@@ -90,3 +90,6 @@ typings/
 # Direnv
 .envrc
 .direnv
+
+# Editor
+.vscode
