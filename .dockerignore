@@ -1,0 +1,12 @@
+.direnv
+.dockerignore
+.envrc
+.git
+.vscode
+node_modules
+npm-debug.log
+Dockerfile*
+docker-compose*
+*.nix
+README.md
+LICENSE
