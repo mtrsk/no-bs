@@ -6,5 +6,6 @@ pkgs.stdenv.mkDerivation rec {
 
   buildInputs = with pkgs; [
     nodejs-11_x
+    openssl
   ];
 }
