@@ -1,4 +1,5 @@
 # No-BS
+[![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
 ## Development Environment
 
