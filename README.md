@@ -3,20 +3,25 @@
 
 ## Development Environment
 
-* Docker
-
 * Nix
-
 ```
 $ nix-shell
 ```
 
-## Building the Project
+## Running the Project
 
 * Docker
+```
+$ docker-composer up
+```
+
+* Node
+WTF are you doing with `node` installed globally?
+```
+$ node index.js
+```
 
 * Nix
-
 ```
 $ nix-build
 ```
